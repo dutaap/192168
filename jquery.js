@@ -1,4 +1,3 @@
-
 $(".login-form").submit(function() {
 	var d = $(".login-form");
 
@@ -14,3 +13,4 @@ $(".login-form").submit(function() {
         },
     });
 });
+
